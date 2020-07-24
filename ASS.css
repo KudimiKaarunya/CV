@@ -1,0 +1,16 @@
+.pix{
+  width: 9%;
+  position: relative;
+  left: 1200px;
+  bottom: 120px;
+  border-width: thin;
+}
+
+.d1{
+  position: relative;
+  left:1200px;
+}
+
+table,th,tr,td{
+  border: 1px solid black;
+}
